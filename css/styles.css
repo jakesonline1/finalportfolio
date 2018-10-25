@@ -1,0 +1,40 @@
+/* Coolors Exported Palette - coolors.co/c8bfc7-344f31-8a7e72-891b24-090302 */
+
+/* HSL */
+/* $color1: hsla(307%, 8%, 77%, 1);
+$color2: hsla(114%, 23%, 25%, 1);
+$color3: hsla(30%, 10%, 49%, 1);
+$color4: hsla(355%, 67%, 32%, 1);
+$color5: hsla(9%, 64%, 2%, 1); */
+
+/* RGB */
+/* $color1: rgba(200, 191, 199, 1); light grey
+$color2: rgba(52, 79, 49, 1); green
+$color3: rgba(138, 126, 114, 1); grey
+$color4: rgba(137, 27, 36, 1); red
+$color5: rgba(9, 3, 2, 1); black */
+ 
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Tangerine:700');
+
+
+h2.logo_text {
+    font-family: 'Tangerine', cursive;
+}
+
+.nav_logo  {
+    height: 50px;
+    margin-top: -15px;
+}
+.logo_text {
+    margin-top: 10px;
+    color: rgba(200, 191, 199, 1);
+
+}
+.logo_text:hover {
+    color:rgba(137, 27, 36, 1);
+}
+.nav_link:hover {
+    color:rgba(137, 27, 36, 1);
+}
