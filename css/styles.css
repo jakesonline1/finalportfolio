@@ -35,6 +35,12 @@ h2.logo_text {
 .logo_text:hover {
     color:rgba(137, 27, 36, 1);
 }
-.nav_link:hover {
-    color:rgba(137, 27, 36, 1);
+
+ul.nav a:hover {
+    color: rgba(137, 27, 36, 1) !important;
+    }
+   
+#carousel-example-generic {
+    height: 400px;
+
 }
